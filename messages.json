@@ -1,0 +1,14 @@
+{
+  "success": {
+    "status": "success",
+    "message": "Api Request successfull"
+  },
+  "notfound": {
+    "status": "error",
+    "message": "Request was not found"
+  },
+  "undefined": {
+    "status": "error",
+    "message": "undefined error"
+  }
+}
